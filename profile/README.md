@@ -2,7 +2,7 @@
 ## Collaboration
 We use GitHub as the principal collaboration platform for software development projects. Try to put all your ideas, queries, concerns here. 
 
-In addition to GitHub, we prefer @discord over voice call. Send a request to hr@nevaehtech.com for being invited to the channel.
+In addition to GitHub, we prefer @teams over voice call. Send a request to talent@droplet.ink for being invited to the channel.
 
 ## Issues and Request for Requirement 
 | ⚠️ Please note |
@@ -19,7 +19,7 @@ In addition to GitHub, we prefer @discord over voice call. Send a request to hr@
   - After your changes settings should be as below:
     ![bandicam-installation-after-changes](https://github.com/NevaehTechPMO/Calcutta-high-Court/assets/7395474/9911be7b-a6df-409b-a3f5-fa303e3907a9)
 ## Recording the video while reporting issues:
-1. Always start with B'Zer home screen. It ensures that developers can reference the version of B'Zer for the issue.
+1. Always start with Apps' home screen. It ensures that developers can reference the version of target App for the issue.
 2. Record all the steps necessary for reproducing the issue
 3. Hover your mouse on the part of the UI where attention is required by the developers to understand the issue.
 ## Mentions steps as per the Issue Reporting Template
