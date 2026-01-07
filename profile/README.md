@@ -34,7 +34,8 @@ In addition to GitHub, we prefer @teams over voice call. Send a request to talen
 
 # Developer's Handbook
 1. Any feature/bug to be addressed should be clearly written down in an issue first. It gives all the stakeholders to have a common understanding of what's expected when the work is done.
-2. Always create [Pull Request(PR)](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) to resolve issue, never directly push in main branch.
+2. For new feature development write in with small, manageable development parts. Issues should be treated as `functions` in computer science; meant to do one thing and one thing well. An issue trying to address too many things often results in `code smell`
+3. Always create [Pull Request(PR)](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) to resolve issue, never directly push in main branch.
    1. First, create a branch from an issue following [this](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-a-branch-for-an-issue).
    2. Checkout the branch locally with `git fetch; git switch <new-branch-name>`.
    3. Commit and push your changes to the new branch.
@@ -44,7 +45,7 @@ In addition to GitHub, we prefer @teams over voice call. Send a request to talen
    7. When done, assign a reviewer to the PR, after PR is approved by the reviewer, the PR can be merged to the main branch, squashing all the changes together in a single commit.
 
    Exception to this rule is only applicable for initial commits of a repository to create a reasonable base. For example, when creating a new repository there may be a few commits to bring the code in stable state. After that, always use PR to resolve issues.
-3. There is one **default** branch in a repository from which the software is released. Always create a new branch from the **default** branch.
+4. There is one **default** branch in a repository from which the software is released. Always create a new branch from the **default** branch.
   1. Sync with the **default** branch of the repository. And sync often.
   2. Keep logical completions in separate commits.
   3. Commit with clear and meaningful commit messages.
