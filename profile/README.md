@@ -107,3 +107,42 @@ In addition to GitHub, we prefer @teams over voice call. Send a request to talen
    
 2. Desktop
    - Always stick to `Windows` default.
+  
+# Product Management
+
+We follow `Scrum` to manage development of products `@droplet`
+
+## What is Scrum? 
+
+    Scrum is an Agile framework that structures work into time-boxed sprints, with defined roles, artifacts, and ceremonies for iterative delivery. 
+
+    Key roles include product owner, Scrum master, and development team, all collaborating to achieve sprint goals. 
+
+    Scrum emphasizes transparency, inspection, and adaptation, enabling teams to respond to change and deliver value incrementally. 
+
+## The Core Scrum Ceremonies 
+
+    Sprint Planning: The team plans the upcoming sprint, deciding what work to tackle (from the Product Backlog) and how to do it, forming the Sprint Backlog. 
+
+    Daily Scrum (Stand-up): A brief, daily 10-15-minute sync where the team shares progress, plans for the day, and highlights any impediments (blockers). 
+
+    Sprint Review: At the end of the sprint, the team demonstrates completed work to stakeholders to gather feedback. 
+
+    Sprint Retrospective: The team reflects on the sprint, discussing what went well, what didn't, and identifies actions for improvement in the next sprint.  
+
+## Implementation 
+|Details|Time/Day/Interval|
+|-|-|
+|Sprint Duration|10 days|
+|Sprint Planning|Tuesdays at 10 days interval|
+|Daily Scrum|10-15 mins, daily|
+|Sprint Review|Mondays (end of the sprint)|
+|Sprint Retrospective|Mondays (end of the sprint)|
+
+|SPRINT DAYS|Day 1 (Tue)|Day 2 (Wed)|Day 3 (Thu)|Day 4 (Fri)|Day 5 (Mon)|Day 6 (Tue)|Day 7 (Wed)|Day 8 (Thu)|Day 9 (Fri)|Day 10 (Mon)|
+|-|-|-|-|-|-|-|-|-|-|-|
+|Activity|Start of the Sprint - Sprint Planning|Daily Scrum/Backlog Refinement|Daily Scrum/Backlog Refinement|Daily Scrum/Backlog Refinement|Daily Scrum/Backlog Refinement|Daily Scrum/Backlog Refinement|Daily Scrum/Backlog Refinement|Daily Scrum/Backlog Refinement|Daily Scrum/Backlog Refinement|Sprint Review + Sprint Retrosprective|
+|Responsibility|Entire Scrum Team|Developers and the entire team|Developers and the entire team|Developers and the entire team|Developers and the entire team|Developers and the entire team|Developers and the entire team|Developers and the entire team|Developers and the entire team|Scrum Team and key stakeholders|
+
+> We encourage you to read more about Scrum @ [Atlassian](https://www.atlassian.com/agile/scrum) and various other resources you stumble upon at www
+
